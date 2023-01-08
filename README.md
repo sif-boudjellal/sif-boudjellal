@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sif-boudjellal
-- 👀 I’m interested in Biometrics, Computer Vision and Deep learning
-- 🌱 I’m currently learning Multimodal Biometrics Recognition
+- 👀 I’m interested in Computer Vision, Deep learning and Biometrics 
 - 📫 How to reach me sifooox92 AT gmail.com
 
 <!---
